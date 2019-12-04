@@ -33,23 +33,19 @@ Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un
 -- Li. Rodolfo H. Baz
 <br>
 -- Isc. Alma Delia Rodriguez Gordillo
-
 <br>
 <h3><b>WEB</b></h3>
 
 www.rhino.org.mx
-
 <br>
 <h3><b>DOWNLOAD</b></h3>
 
 -- MD5 Checksum: b93effdd97290137765dba00146f253a
 -- Size: 87.5 MB (91,816,617 bytes)
-
 <br>
 <b><h3>TORRENT LINK:</b></h3>
 
 SOON......
-
 
 <br><br><br>
 <h3><b>GNU GENERAL PUBLIC LICENSE</b></h3>
