@@ -27,7 +27,6 @@ Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un
 -- Switch Parameters Tools
 <br>
 -- Unpackers
-
 <br>
 <h3><b>AUTORS</b></h3>
 
