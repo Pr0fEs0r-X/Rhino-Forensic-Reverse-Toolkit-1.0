@@ -1,11 +1,8 @@
 # Rhino-Forensic-Reverse-Toolkit-1.0
 
-Rhino Forensic &amp; Reverse Toolkit ® is a toolkit designed to provide in a single framework the most used tools to carry out different processes related to Computer Forensics and Reverse Engineering, with more than 100 programs organized according to its use in 14 sections which They give an organizational facility for its use. http://www.rhino.org.mx
+Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un solo framework las herramientas mas usadas para llevar a cabo diferentes procesos relacionados con la Forensia Informática e Ingeniería Reversa, con mas de 100 programas organizados segun su uso en 12 secciones las cuales nos dan una facilidad organizativa para su uso y que se irá actualizando cada 3 meses con nuevas tools.
 
-
-
-Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un solo framework las herramientas mas usadas para llevar a cabo diferentes procesos relacionados con la Forensia Informática e Ingeniería Reversa, dcon mas de 100 programas organizados segun su uso en 12 secciones las cuales nos dan una facilidad organizativa para su uso y que se irá actualizando cada 3 meses con nuevas tools.
-SECTIONS
+#SECTIONS#
 
 -- Analysis
 -- Crypto Tools
