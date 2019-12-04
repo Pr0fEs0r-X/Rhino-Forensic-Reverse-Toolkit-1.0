@@ -2,7 +2,7 @@
 
 Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un solo framework las herramientas mas usadas para llevar a cabo diferentes procesos relacionados con la Forensia Informática e Ingeniería Reversa, con mas de 100 programas organizados segun su uso en 12 secciones las cuales nos dan una facilidad organizativa para su uso y que se irá actualizando cada 3 meses con nuevas tools.
 
-<h1><b>#SECTIONS#</b>
+<h1><b>#SECTIONS#</b></h1>
 
 -- Analysis
 <br>
@@ -28,17 +28,19 @@ Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un
 <br>
 -- Unpackers
 
-<b>AUTORS</b>
+<h1><b>AUTORS</b></h1>
 
 -- Li. Rodolfo H. Baz
 <br>
 -- Isc. Alma Delia Rodriguez Gordillo
 
-<b>WEB</b>
+
+<h1><b>WEB</b></h1>
 
 www.rhino.org.mx
 
-<b>DOWNLOAD</b>
+
+<h1><b>DOWNLOAD</b></h1>
 
 -- MD5 Checksum: b93effdd97290137765dba00146f253a
 -- Size: 87.5 MB (91,816,617 bytes)
