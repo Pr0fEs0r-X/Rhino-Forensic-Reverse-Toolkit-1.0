@@ -42,11 +42,9 @@ www.rhino.org.mx
 
 -- MD5 Checksum: b93effdd97290137765dba00146f253a
 -- Size: 87.5 MB (91,816,617 bytes)
-<br>
-<b><h3>TORRENT LINK:</b></h3>
 
 SOON......
-<br>
+<br><br>
 <h3><b>GNU GENERAL PUBLIC LICENSE</b></h3>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
