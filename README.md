@@ -2,7 +2,7 @@
 
 Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un solo framework las herramientas mas usadas para llevar a cabo diferentes procesos relacionados con la Forensia Informática e Ingeniería Reversa, con mas de 100 programas organizados segun su uso en 12 secciones las cuales nos dan una facilidad organizativa para su uso y que se irá actualizando cada 3 meses con nuevas tools.
 
-<b>#SECTIONS#</b>
+<h1><b>#SECTIONS#</b>
 
 -- Analysis
 <br>
