@@ -32,7 +32,7 @@ Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un
 
 -- Li. Rodolfo H. Baz
 <br>
--- Isc. Alma Delia Rodriguez Gordillo
+-- .....................
 <br>
 <h3><b>WEB</b></h3>
 
