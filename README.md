@@ -36,7 +36,7 @@ Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un
 <br>
 <h3><b>WEB</b></h3>
 
-(https://t.me/PrOfEsOrX)
+(https://t.me/+PtnNY2W3FlE0ODZh)
 <br>
 <h3><b>DOWNLOAD</b></h3>
 
