@@ -5,7 +5,10 @@ Rhino Forensic & Reverse Toolkit ® es un toolkit destinado a proporcionar en un
 <h3><b>#SECTIONS#</b></h3>
 
 -- Analysis
-<br>
+<br> 🛡️ NetXScanner v 1.,0 (ARP Scanner)<br>
+https://github.com/Pr0fEs0r-X/NetXcanner-v-1.0
+
+Una herramienta de línea de comandos ligera y eficiente escrita en Python para descubrir dispositivos conectados a tu red local. 
 -- Crypto Tools
 <br>
 -- Decompilers
